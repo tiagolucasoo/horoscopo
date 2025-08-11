@@ -23,7 +23,7 @@
     -   `System.Text.Json`: Manipulação de dados JSON.
     -   `System.Globalization`: Validação de datas.
 -   **APIs Externas:**
-    -   **Horóscopo:** [Horoscope API](https://github.com/sameerkumar18/horoscope-api) (`horoscope-app-api.vercel.app`)
+    -   **Horóscopo:** [Horoscope API](https://horoscope-app-api.vercel.app)
     -   **Tradução:** [MyMemory API](https://mymemory.translated.net/doc/spec.php)
 
 ## 🚀 Como Executar
